@@ -24,7 +24,10 @@ p {
      background-color: #f8f9fa;
    }
 
-#octocat img {
+
+   #octocat img {
+
+
      display: block;
      width: 100%;
      height: auto;
